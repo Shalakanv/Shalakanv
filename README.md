@@ -1,5 +1,4 @@
-<img src="![Uploading web-development-concept-person-using-260nw-1890313726.jpg…]()
-">
+<img src="https://thumbs.dreamstime.com/b/web-development-concept-person-using-laptop-web-development-concept-person-using-laptop-white-table-178393160.jpg">
 
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
