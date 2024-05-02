@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-computer_23-2148312610.jpg?size=626&ext=jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?w=740&t=st=1714670480~exp=1714671080~hmac=72f80e8bac21c2228100ce582de260d2d7190816aa5f376a3b79f3fe68ab1d47">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakanv&label=Profile%20views&color=0e75b6&style=flat" alt="shalakanv" /> </p>
 
