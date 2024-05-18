@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakanv&label=Profile%20views&color=0e75b6&style=flat" alt="shalakanv" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shalakanv&label=Profile%20views&color=0e75b6&style=flat" alt="shalakanv](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522web%2Bdevelopment%2522&psig=AOvVaw3BrJ-Ff482qV8SubtcNCe9&ust=1716123693634000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCluIuhl4YDFQAAAAAdAAAAABAJ)" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
