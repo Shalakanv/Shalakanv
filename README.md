@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://t3.ftcdn.net/jpg/02/14/53/92/360_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://img.freepik.com/free-vector/work-home-concept-flat-design_1308-94361.jpg" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
