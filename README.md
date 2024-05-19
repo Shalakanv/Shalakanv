@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="center"> <img src="https://t3.ftcdn.net/jpg/02/14/53/92/360_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg" /> </p>
+<p align="center"> <img src="[https://t3.ftcdn.net/jpg/02/14/53/92/360_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg](https://www.beacontechnologies.com/_images/web-design-and-development/impact-development.jpg)" /> </p>
 
 <p align="left"> <a href="https://img.freepik.com/free-vector/work-home-concept-flat-design_1308-94361.jpg" alt="" /></a> </p>
 
