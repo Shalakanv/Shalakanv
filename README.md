@@ -1,4 +1,4 @@
-[![MAsterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)]
+![MAsterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
