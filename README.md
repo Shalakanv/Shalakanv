@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="center"> <img src=""/> </p>
-
-<p align="left"> <a href="https://img.freepik.com/free-vector/girl-using-laptop-cartoon_1308-117464.jpg?t=st=1716224380~exp=1716227980~hmac=cfaee68022d53a6ed8d9e74a7b4ba18637e1b89af7eef181f26e071b30210863&w=740" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Web and Data structure and Algorithm**
