@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Web,DSA and MEARN Stack**
 
-- 📫 How to reach me **shalaka_vyawhare_it@moderncoe.edu.in**
+- 📫 How to reach me **shalakavyawhare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
