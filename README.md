@@ -1,30 +1,63 @@
-![MAsterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
-<h1 align="center">Hi 👋, I'm Shalaka Vyawhare</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<!-- HEADER -->
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalakanv&label=Profile%20views&color=0e75b6&style=flat" alt="shalakanv" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **JAVA**
-
-- 💬 Ask me about **Web,DSA and MEARN Stack**
-
-- 📫 How to reach me **shalakavyawhare@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shalaka-vyawhare-370366254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shalaka-vyawhare-370366254" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Shalaka%20Vyawhare&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20Computer%20Engineering%20%7C%20Software%20Developer&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Shalaka Vyawhare banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalaka-vyawhare-370366254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shalakavyawhare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/ShalakaVyawhare/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalakanv&show_icons=true&locale=en&layout=compact" alt="shalakanv" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalakanv&show_icons=true&locale=en" alt="shalakanv" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalakanv&" alt="shalakanv" /></p>
+I am a Computer Engineering student with a background in Information Technology. I enjoy building practical software solutions, solving programming problems, and learning new technologies.
 
+- 🎓 Pursuing **M.Tech in Computer Engineering**
+- 💻 Focused on **Software Development and Web Technologies**
+- 🌱 Currently strengthening **Java** and **Data Structures & Algorithms**
+- 🚀 Building full-stack applications with the **MERN Stack**
+- 📫 Reach me at **shalakavyawhare@gmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,js" alt="Java, C++, JavaScript" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code" /> |
+
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shalakanv&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to learning opportunities, collaborations, and software development roles. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shalaka-vyawhare-370366254/) or [email](mailto:shalakavyawhare@gmail.com).
+
+<p align="center">
+  <i>Building skills, solving problems, and turning ideas into code.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
+</p>
